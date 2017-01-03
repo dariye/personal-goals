@@ -37,6 +37,10 @@ accountability.
   announcements
 - [ ] Catch up with Samir
 - [ ] Kairos Global & Northeast conference calls/catchup
+- [ ] Ping's video-timelapse
+  - christmas
+  - new year
+
 
 
 ### Things I'll do this Month:
