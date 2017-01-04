@@ -18,4 +18,16 @@
   - can copy usage example to clipboard
   - can view demo of snippet
   - anyone can submit snippet through PR
+- [ ] Haven
+  - a solution to find help for those in pressing need of it. The saddest part
+    of spending winters in New York or other cities around the US is seeing the
+    sheer number of people without homes. Those of them that want help need
+    help and there should be a way to inform the authorities or other NGOs about
+    their whereabouts 
+  - an extension for this is finding a way to restore those of us who are
+    broken. This could be a rehabilitation for those without homes. There they
+    can gain self esteem through skill building to be re-integrated into the
+    society. Need to research more on this.
+
+
 
