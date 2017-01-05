@@ -18,4 +18,8 @@ so pretty excited. Found out a co-worker got a promotion right before the break
 so we're gonna get turnt soon. It's great celebrating other people's success. I
 got the second day of 30days of JS!.
 
+# 01/04/2017
+Glad to be feeling much better after a very feverish start to the day. Stay home
+because of the fever/cold. Spent some quality time watching TV with my roommate.
+Completed day 3 of JavaScript30.
 

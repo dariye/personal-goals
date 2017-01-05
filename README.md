@@ -40,6 +40,7 @@ accountability.
 - [ ] Ping's video-timelapse
   - christmas
   - new year
+- [ ] Get back to Carly regarding web stuff
 
 
 
