@@ -19,7 +19,10 @@ so we're gonna get turnt soon. It's great celebrating other people's success. I
 got the second day of 30days of JS!.
 
 # 01/04/2017
-Glad to be feeling much better after a very feverish start to the day. Stay home
+Glad to be feeling much better after a very feverish start to the day. Stayed home
 because of the fever/cold. Spent some quality time watching TV with my roommate.
 Completed day 3 of JavaScript30.
 
+# 01/05/2017
+So it was the flu after all and my mom almost convinced me it was malaria. Not in
+Amurica! Well I made some pepper soup (without habaneros unfortunately) to soothe my throat :). Heard from my good friend Abhi today! Completed day 4 of JavaScript30.
