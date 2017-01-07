@@ -24,5 +24,11 @@ because of the fever/cold. Spent some quality time watching TV with my roommate.
 Completed day 3 of JavaScript30.
 
 # 01/05/2017
-So it was the flu after all and my mom almost convinced me it was malaria. Not in
+So I had the flu after all and my mom almost convinced me it was malaria. Not in
 Amurica! Well I made some pepper soup (without habaneros unfortunately) to soothe my throat :). Heard from my good friend Abhi today! Completed day 4 of JavaScript30.
+
+# 01/06/2017
+It's been yet another proud lazy day. I'm actually feeling better now. I can
+taste food! Spoke at length with Aunt Margaret today which something I quite
+like doing Working on day 5 of JavaScript30.
+
