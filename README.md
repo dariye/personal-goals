@@ -16,16 +16,16 @@ accountability.
 
 ### Things I'll do this week:
 
-- [ ] Catchup with Akshai
+- [x] Catchup with Akshai
 - [ ] Launch website for HackNigeria
-- [ ] Start 30 Days of JS
-- [ ] Finalize Esusu app designs
-- [ ] Create list of open source projects to contribute to
-- [ ] Finalize plans for the year (blog about 2017 plans)
+- [x] Start 30 Days of JS
+- [x] Finalize Esusu app designs
+- [x] Create list of open source projects to contribute to
+- [x] Finalize plans for the year (blog about 2017 plans)
 - [ ] YDKJS: Scope & Closures (take notes, experiment)
 - [ ] Imposters Handbook (Chapters 1 - 3) (take notes, experiment)
 - [ ] Go running a few times in the morning
-- [ ] Commence morning and evening rituals
+- [x] Commence morning and evening rituals
 - [ ] Compile list of potential collaborators and partners for HackNigeria
 - [ ] [Facebook's React Native
   Tut](https://facebook.github.io/react-native/)
@@ -35,7 +35,7 @@ accountability.
 - [ ] Draft PWA blog post
 - [ ] Send Kairos-wide community emails regarding event in Feb amongst other
   announcements
-- [ ] Catch up with Samir
+- [x] Catch up with Samir
 - [ ] Kairos Global & Northeast conference calls/catchup
 - [ ] Ping's video-timelapse
   - christmas

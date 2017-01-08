@@ -32,3 +32,8 @@ It's been yet another proud lazy day. I'm actually feeling better now. I can
 taste food! Spoke at length with Aunt Margaret today which something I quite
 like doing Working on day 5 of JavaScript30.
 
+# 01/07/2017
+Cleaned the entire apartment today with two of my roommates. Spent some time
+with my roommates just hanging. Completed day 6 of JavaScript30 
+
+
