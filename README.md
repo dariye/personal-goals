@@ -10,39 +10,31 @@ accountability.
 4. Stay spontaneous, be experimental
 5. Be confident!
 
-## January 1, 2016
+## January 8, 2016
 
-### This Week's Focus: Catching up, planning, getting back at it
+### This Week's Focus: Pick up the pace
 
 ### Things I'll do this week:
-
-- [x] Catchup with Akshai
+- [ ] Ping's video-timelapse
+  - christmas
+  - new year
 - [ ] Launch website for HackNigeria
-- [x] Start 30 Days of JS
-- [x] Finalize Esusu app designs
-- [x] Create list of open source projects to contribute to
-- [x] Finalize plans for the year (blog about 2017 plans)
-- [ ] YDKJS: Scope & Closures (take notes, experiment)
-- [ ] Imposters Handbook (Chapters 1 - 3) (take notes, experiment)
-- [ ] Go running a few times in the morning
-- [x] Commence morning and evening rituals
+- [ ] Kairos Global & Northeast conference calls/catchup
 - [ ] Compile list of potential collaborators and partners for HackNigeria
 - [ ] [Facebook's React Native
   Tut](https://facebook.github.io/react-native/)
 - [ ] [Facebook's React Tutorial](https://facebook.github.io/react)
 - [ ] Esusu feature job stories and dev processes
+- [ ] Esusu complete shell for all screens
 - [ ] Ensure Esusu devs have properly configured environments
 - [ ] Draft PWA blog post
 - [ ] Send Kairos-wide community emails regarding event in Feb amongst other
   announcements
-- [x] Catch up with Samir
-- [ ] Kairos Global & Northeast conference calls/catchup
-- [ ] Ping's video-timelapse
-  - christmas
-  - new year
-- [ ] Get back to Carly regarding web stuff
-
-
+- [ ] YDKJS: Scope & Closures (take notes, experiment)
+- [ ] Imposters Handbook (Chapters 1 - 3) (take notes, experiment)
+- [ ] Go running a few times in the morning
+- [ ] Publish one blog post
+- [ ] writing
 
 ### Things I'll do this Month:
 - [ ] Esusu App
@@ -64,7 +56,7 @@ accountability.
   - es6 & beyond
 - [ ] The imposter's handbook
 - [ ] The Autobiography of Martin Luther King Jr
-- [ ] We Should all be Feminists
+- [x] We Should all be Feminists
 - [ ] Read through Google's Web Fundamentals (take notes, experiment)
 
 

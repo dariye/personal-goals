@@ -28,6 +28,20 @@
     broken. This could be a rehabilitation for those without homes. There they
     can gain self esteem through skill building to be re-integrated into the
     society. Need to research more on this.
+- [ ] You can have a better experience.com
+  - long name I know. I was going through [Ayse
+    Deniz's website](http://adpianist.com/bio/). She's a talented artist. She
+    has great content on there. I think it would be great to have a web page
+    translator of some sort. Think of it as the magic mirror that makes
+    everything beautiful. 
+    
+    You can view a terribly formatted or designed web page in a new way. There
+    are obvious technical difficulties to this but it could work off of what the
+    webarchive does. Just a thought.
+- [ ] 3D interactive world map with humor
+- [ ] An online foot-print tracker
+- [ ] SharedMessage
+  - Google apps add-on to re-use common language/verbiage within an org
 
 
 

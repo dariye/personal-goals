@@ -34,6 +34,13 @@ like doing Working on day 5 of JavaScript30.
 
 # 01/07/2017
 Cleaned the entire apartment today with two of my roommates. Spent some time
-with my roommates just hanging. Completed day 6 of JavaScript30 
+with my roommates just hanging. Sai my roommate bought me an Umomi burger. I
+thought he was paying. He wasn't :). Completed day 6 of JavaScript30 
+
+# 01/08/2017
+Super chill day today. Katie's visiting from the UK! Also, I somehow got excited about
+having an impossible date alignment for the entire year so like Sundays are 1/7  ... 1/8 ... 1/15 ... and so on. But you get the gist. lol smh at my stupid feats. Tejas had to remind me of Spent some quality time with my roommate Tejas watching TV and enjoying some YouTube video. Also, Ken my roommate might be my new philosophy buddy. Day 7 of Javascript30.
+
+
 
 
