@@ -33,6 +33,10 @@ accountability.
 - [ ] YDKJS: Scope & Closures (take notes, experiment)
 - [ ] Imposters Handbook (Chapters 1 - 3) (take notes, experiment)
 - [ ] Go running a few times in the morning
+- [ ] Catch up with Derek
+  - high level plans for year
+  - quarter goals
+  - action items
 - [ ] Publish one blog post
 - [ ] writing
 

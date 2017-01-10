@@ -41,6 +41,10 @@ thought he was paying. He wasn't :). Completed day 6 of JavaScript30
 Super chill day today. Katie's visiting from the UK! Also, I somehow got excited about
 having an impossible date alignment for the entire year so like Sundays are 1/7  ... 1/8 ... 1/15 ... and so on. But you get the gist. lol smh at my stupid feats. Tejas had to remind me of Spent some quality time with my roommate Tejas watching TV and enjoying some YouTube video. Also, Ken my roommate might be my new philosophy buddy. Day 7 of Javascript30.
 
-
+# 01/09/2017
+This week is definitely the first week back at work. I was super productive for
+most of the day. Made good use of my Pomodoro clock and oh yes, I got a standing
+desk last week. It's kicking a$$ so far :). Today's Katie's first full day in
+the US and she's up and about. Completed day 8 of JavaScript30
 
 
