@@ -54,3 +54,8 @@ Noah. Ruth my cousin is on her way here to complete the rest of her studies at
 Syracuse...cannot wait! Completed day 9 of JavaScript30. Taking an early stab on a nice issue on
 the hyper project by zeit.co
 
+# 01/11/2017
+We had the best cronuts today at work! Cronuts = croissant + donuts. Get it? It
+was a slow day but got to connect with Evan regarding professional/personal
+goals as well as Joe. Overall I feel good. Completed day 10 of JavaScript30.
+
