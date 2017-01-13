@@ -59,3 +59,13 @@ We had the best cronuts today at work! Cronuts = croissant + donuts. Get it? It
 was a slow day but got to connect with Evan regarding professional/personal
 goals as well as Joe. Overall I feel good. Completed day 10 of JavaScript30.
 
+# 01/12/2017
+I have my third visitor of the year crashing my couch and counting. Imo's has an interview with
+NYU's med school where he's looking to do his residency. I hope he gets it! The
+weather was well over the 40s today in NYC. Now that's good day in winter :). I
+watched a few episodes of Marco Polo. One of my goals this year is to stay as
+much away from TV as possible. Starting my first skunk works project tomorrow so
+pretty excited. It's gonna be a visualization of our open source work at Andela.
+Completing the most exciting project of JavaScript30 so far. Day 11 almost
+complete.
+
