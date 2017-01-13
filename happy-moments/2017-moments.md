@@ -69,3 +69,11 @@ pretty excited. It's gonna be a visualization of our open source work at Andela.
 Completing the most exciting project of JavaScript30 so far. Day 11 almost
 complete.
 
+# 01/13/2017
+In the spirit of having a year's commit streak, I'm gonna cheat a little and
+enter today's entry a little early. Hanging out with Katie & Russell later
+tonight. It's dinner then off to a bar. Resumed communications training today
+with Steve. I've improved as a communicator but with so much room to get better.
+Began working on my open source data viz project for Andela. It's the first on
+my list of skunk work projects.  
+
