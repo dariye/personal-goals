@@ -10,9 +10,9 @@ accountability.
 4. Stay spontaneous, be experimental
 5. Be confident!
 
-## January 8, 2016
+## January 15, 2016
 
-### This Week's Focus: Pick up the pace
+### This Week's Focus: Focus. No TV!
 
 ### Things I'll do this week:
 - [ ] Ping's video-timelapse
@@ -39,6 +39,7 @@ accountability.
   - action items
 - [ ] Publish one blog post
 - [ ] writing
+
 
 ### Things I'll do this Month:
 - [ ] Esusu App

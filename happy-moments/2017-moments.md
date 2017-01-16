@@ -77,3 +77,9 @@ with Steve. I've improved as a communicator but with so much room to get better.
 Began working on my open source data viz project for Andela. It's the first on
 my list of skunk work projects.  
 
+# 01/15/2017
+Happy to be back on track with my daily entries and personal goals. I find that
+the more I hit my goals at work. the less I hit my personal ones. Spoke
+extensively with Peace today. She's now a mature and responsible young woman.
+Decided no more netflix for the time being. Completed day 14 of JavaScript30.
+
