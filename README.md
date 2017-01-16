@@ -19,13 +19,10 @@ accountability.
   - christmas
   - new year
 - [ ] Launch website for HackNigeria
-- [ ] Kairos Global & Northeast conference calls/catchup
 - [ ] Compile list of potential collaborators and partners for HackNigeria
 - [ ] [Facebook's React Native
   Tut](https://facebook.github.io/react-native/)
 - [ ] [Facebook's React Tutorial](https://facebook.github.io/react)
-- [ ] Esusu feature job stories and dev processes
-- [ ] Esusu complete shell for all screens
 - [ ] Ensure Esusu devs have properly configured environments
 - [ ] Draft PWA blog post
 - [ ] Send Kairos-wide community emails regarding event in Feb amongst other
@@ -33,12 +30,13 @@ accountability.
 - [ ] YDKJS: Scope & Closures (take notes, experiment)
 - [ ] Imposters Handbook (Chapters 1 - 3) (take notes, experiment)
 - [ ] Go running a few times in the morning
-- [ ] Catch up with Derek
-  - high level plans for year
-  - quarter goals
-  - action items
 - [ ] Publish one blog post
-- [ ] writing
+- [ ] Writing
+- [ ] hang out with TJ
+  - archery
+  - dinner
+- [ ] catch with Pat
+- [ ] hop on a call with Sahir
 
 
 ### Things I'll do this Month:
