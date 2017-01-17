@@ -83,3 +83,12 @@ the more I hit my goals at work. the less I hit my personal ones. Spoke
 extensively with Peace today. She's now a mature and responsible young woman.
 Decided no more netflix for the time being. Completed day 14 of JavaScript30.
 
+# 01/16/2017
+MLK Day! Really productive day. The trick to getting to good enough is to trust
+in your plans. I did that today. I met up with Pat, talked about implementation
+details for Esusu and had lunch. Smart dude! Soon afterwards, I caught up with
+my good friend Vid and Shaun. They're both taking on an interesting problem in
+the health sector. Always exciting to hear about their victories and challenges.
+Finally confirmed appointments to hunt for Nanle's engagement ring. Worked on an
+early draft of the PWA blog post. Built a simple theme for hyper (okay it was
+very few lines of code :) ). Almost done with day 15 of JS30.
