@@ -92,3 +92,6 @@ the health sector. Always exciting to hear about their victories and challenges.
 Finally confirmed appointments to hunt for Nanle's engagement ring. Worked on an
 early draft of the PWA blog post. Built a simple theme for hyper (okay it was
 very few lines of code :) ). Almost done with day 15 of JS30.
+
+# 01/17/2017
+Today is my little brother's birthday. He turned 3 today! He made my day. I went ring shopping for my cousin. There's stunning beauty in diamond in hand ... just saying.  Caught up with Isha. 

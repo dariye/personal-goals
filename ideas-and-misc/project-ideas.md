@@ -43,6 +43,12 @@
 - [ ] SharedMessage
   - Google apps add-on to re-use common language/verbiage within an org
 - [ ] Design of everyday things with WebGL
+- [ ] Pomodoro Calendar 
+  - Combine a pomodoro timer with corresponding events on my google calendar
+- [ ] Slack app for a company glossary
+  - simple glossary reader
+  - simple commands to pull glossary
+  - update via google spreadsheet
 
 
 
