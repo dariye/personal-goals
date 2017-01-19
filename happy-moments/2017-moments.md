@@ -95,3 +95,6 @@ very few lines of code :) ). Almost done with day 15 of JS30.
 
 # 01/17/2017
 Today is my little brother's birthday. He turned 3 today! He made my day. I went ring shopping for my cousin. There's stunning beauty in diamond in hand ... just saying.  Caught up with Isha. 
+
+# 01/18/2017
+Ruth is stateside so super excited to catch up with her.
