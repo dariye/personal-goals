@@ -98,3 +98,11 @@ Today is my little brother's birthday. He turned 3 today! He made my day. I went
 
 # 01/18/2017
 Ruth is stateside so super excited to catch up with her.
+
+# 01/22/2017
+Back on track with my weekly schedule. Had a lot of fun clubbing/hanging out
+with friends on Thursday, Friday, and at a friend and colleagues house party.
+Pumped for a productive week ahead. Went running today after a hiatus of about
+4-5 months. Learned today that success is on the crossroad of opportunity and
+preparation. Caught up with js30. 
+

@@ -12,32 +12,20 @@ accountability.
 
 ## January 15, 2016
 
-### This Week's Focus: Focus. No TV!
+## Next Week's Focus: Esusu
 
-### Things I'll do this week:
-- [ ] Ping's video-timelapse
-  - christmas
-  - new year
-- [ ] Launch website for HackNigeria
-- [ ] Compile list of potential collaborators and partners for HackNigeria
+## Things I'll do next week:
 - [ ] [Facebook's React Native
   Tut](https://facebook.github.io/react-native/)
 - [ ] [Facebook's React Tutorial](https://facebook.github.io/react)
-- [ ] Ensure Esusu devs have properly configured environments
-- [ ] Draft PWA blog post
 - [ ] Send Kairos-wide community emails regarding event in Feb amongst other
   announcements
-- [ ] YDKJS: Scope & Closures (take notes, experiment)
-- [ ] Imposters Handbook (Chapters 1 - 3) (take notes, experiment)
-- [ ] Go running a few times in the morning
-- [ ] Publish one blog post
+- [ ] Go running
+- [ ] Cook a meal
 - [ ] Writing
 - [ ] hang out with TJ
   - archery
   - dinner
-- [ ] catch with Pat
-- [ ] hop on a call with Sahir
-
 
 ### Things I'll do this Month:
 - [ ] Esusu App
@@ -69,6 +57,15 @@ accountability.
 - [ ] Glossary maker
 - [ ] Open Source Contribution ranker for orgs
 - [ ] Writing - [Book Summaries]()
+- [ ] Launch website for HackNigeria
+- [ ] Compile list of potential collaborators and partners for HackNigeria
+- [ ] YDKJS: Scope & Closures (take notes, experiment)
+- [ ] Imposters Handbook (Chapters 1 - 3) (take notes, experiment)
+- [ ] Ping's video-timelapse
+  - christmas
+  - new year
+
+
 
 ## Acknowledgement
 I'm taking a leaf out of [Una's book](http://una.im/personal-goals-guide) so to speak.
