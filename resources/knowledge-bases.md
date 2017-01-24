@@ -4,5 +4,6 @@
 - [ ] [Mozilla's Learn Web
   Development](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
 - [ ] [Failed Startup Stories](https://collapsed.co/)
+- [ ] [Hack Design](https://hackdesign.org/lessons)
   
 
