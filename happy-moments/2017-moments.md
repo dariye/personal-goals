@@ -105,9 +105,12 @@ with friends on Thursday, Friday, and at a friend and colleagues house party.
 Pumped for a productive week ahead. Went running today after a hiatus of about
 4-5 months. Learned today that success is on the crossroad of opportunity and
 preparation. Caught up with js30. 
+
 # 01/23/2017
 Today was my little sister's birthday. She's not so little anymore and is now a
 maturing young lady. Got to catch up with my cousin Ebenezer. Made my second
 blue apron meal and it's fantastic!. 
 
+# 01/24/2017
+Met up with Abbey and Pat from the Esusu team today.
 
