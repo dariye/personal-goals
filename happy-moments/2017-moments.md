@@ -114,3 +114,7 @@ blue apron meal and it's fantastic!.
 # 01/24/2017
 Met up with Abbey and Pat from the Esusu team today.
 
+# 01/25/2017
+Had lunch with Maya from work. Realized how much I suck at pool at the company
+happy hour. Now I can work on improving my pool game. 
+
