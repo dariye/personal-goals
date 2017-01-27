@@ -118,3 +118,6 @@ Met up with Abbey and Pat from the Esusu team today.
 Had lunch with Maya from work. Realized how much I suck at pool at the company
 happy hour. Now I can work on improving my pool game. 
 
+# 01/26/2017
+Had some time off to relax after work. Started listening to The Power of Habit.
+Audio books can be arduous. Completed day 22 of js30. 
