@@ -10,22 +10,16 @@ accountability.
 4. Stay spontaneous, be experimental
 5. Be confident!
 
-## January 15, 2016
+## January 29, 2016
 
-## Next Week's Focus: Esusu
+## Next Week's Focus: HackNigeria website
 
-## Things I'll do next week:
-- [ ] [Facebook's React Native
-  Tut](https://facebook.github.io/react-native/)
-- [ ] [Facebook's React Tutorial](https://facebook.github.io/react)
-- [ ] Send Kairos-wide community emails regarding event in Feb amongst other
-  announcements
-- [ ] Go running
-- [ ] Cook a meal
-- [ ] Writing
-- [ ] hang out with TJ
-  - archery
-  - dinner
+## Things I'll do this week:
+- [ ] HackNigeria website
+- [ ] YDKJS 1 book
+- [ ] PWA blog post
+- [ ] PWA demo app
+- [ ] Archery Practice
 
 ### Things I'll do this Month:
 - [ ] Esusu App

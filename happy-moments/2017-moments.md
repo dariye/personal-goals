@@ -121,3 +121,14 @@ happy hour. Now I can work on improving my pool game.
 # 01/26/2017
 Had some time off to relax after work. Started listening to The Power of Habit.
 Audio books can be arduous. Completed day 22 of js30. 
+
+# 01/29/2017
+Had a very restful day after a crazy start to the weekend–attended the Cirque
+Noir party in Brooklyn at the House of Yes. It was worth losing my Saturday
+over. 
+
+On a more candid note, I'm disheartened by all that has happened
+politically over the past 48hrs. The United States of America fails to shine as
+the beacon of freedom and hope it once represented. My belief in the freedom of
+all men is re-affirmed on a daily basis. There's no passing day I'm unable to
+appreciate the freedom that I have. 
