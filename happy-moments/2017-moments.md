@@ -132,3 +132,16 @@ politically over the past 48hrs. The United States of America fails to shine as
 the beacon of freedom and hope it once represented. My belief in the freedom of
 all men is re-affirmed on a daily basis. There's no passing day I'm unable to
 appreciate the freedom that I have. 
+
+The day was made after speaking to my Grandmother who was really really excited
+to hear from me. I think hadn't spoken to her in over 6 months. Note to self,
+MAKE ALL THOSE THAT MATTER COUNT!
+
+# 01/30/2017
+Experimenting with working until late. I also opted out of the Esusu team today.
+I want to focus on one gig for now. There is a time for everything. 
+
+I wrote a early this morning! More to come. Had a good chat with the office
+night owls Ian, Jeremy, and Divya! 
+
+
