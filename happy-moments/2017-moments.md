@@ -144,4 +144,11 @@ I want to focus on one gig for now. There is a time for everything.
 I wrote a early this morning! More to come. Had a good chat with the office
 night owls Ian, Jeremy, and Divya! 
 
+# 02/01/2017
+Busy day at work. A few colleagues are moving on to other thing and I'm happy
+for them. 
+
+Go to hang out with some of the NYU crew. Went to see the amazing Ashley Gavin
+at Carolines. Awesome place to check out.
+
 
