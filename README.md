@@ -10,22 +10,23 @@ accountability.
 4. Stay spontaneous, be experimental
 5. Be confident!
 
-## January 29, 2016
+## February 5, 2016
 
-## Next Week's Focus: HackNigeria website
+## Next Week's Focus: Writing; pwa post; vim plugins audit; dev environment config
+
 
 ## Things I'll do this week:
-- [ ] HackNigeria website
-- [ ] YDKJS 1 book
-- [ ] PWA blog post
-- [ ] PWA demo app
-- [ ] Archery Practice
+- [ ] Meet Desmond
+- [ ] Confirm volunteers for startup cities
+- [ ] Kairos email blast; compile list for Bryan
+- [ ] Writing
+- [ ] js30 catch up and complete
+* audit vim plugins
+* terminal config
+* PWA demo app
 
 ### Things I'll do this Month:
 - [ ] Esusu App
-  - ios version with React Native
-  - blog about using react native
-  - blog about "Design process" and working with devs
 - [ ] HackNigeria
   - Create a tracker for all activities leading up to event
   - Find collaborators
@@ -40,8 +41,6 @@ accountability.
   - async & performance
   - es6 & beyond
 - [ ] The imposter's handbook
-- [ ] The Autobiography of Martin Luther King Jr
-- [x] We Should all be Feminists
 - [ ] Read through Google's Web Fundamentals (take notes, experiment)
 
 
