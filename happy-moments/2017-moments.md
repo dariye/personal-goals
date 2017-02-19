@@ -152,3 +152,18 @@ Go to hang out with some of the NYU crew. Went to see the amazing Ashley Gavin
 at Carolines. Awesome place to check out.
 
 
+# 02/18/2017
+
+One of the warmest days yet this winter. 16 degrees Celsius! Took a ride to
+Dumobo from Sunset Park! First time I've covered such distance on my bike. I rode to Brooklyn
+Roasting Company in Dumbo. It is by far one of the best coffee shops to enjoy a good book
+and even code.
+
+Made a concoction of black beans with white rice and something I can't even
+describe with corned beef. It wasn't entirely awesful so yeah! 
+
+
+
+
+
+

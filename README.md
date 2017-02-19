@@ -10,22 +10,21 @@ accountability.
 4. Stay spontaneous, be experimental
 5. Be confident!
 
-## February 5, 2016
+## February 19, 2016
 
-## Next Week's Focus: Writing; pwa post; vim plugins audit; dev environment config
+## Next Week's Focus: Focus
 
-
-## Things I'll do this week:
-- [ ] Meet Desmond
-- [ ] Confirm volunteers for startup cities
-- [ ] Kairos email blast; compile list for Bryan
-- [ ] Writing
-- [ ] js30 catch up and complete
-* audit vim plugins
-* terminal config
-* PWA demo app
+## Things I'll do next week:
+- [ ] Publish PWA blog post
+- [ ] Read and write a summary of Next Africa
+- [ ] Write a journal entry every day of the week
+- [ ] Submit a contribution to an open source project
 
 ### Things I'll do this Month:
+- [ ] Visualization with React
+- [ ] Web app with React + Contentful
+- [ ] Add two more features to blog
+- [ ] Blog about learnings in January
 - [ ] Esusu App
 - [ ] HackNigeria
   - Create a tracker for all activities leading up to event
