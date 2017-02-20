@@ -162,6 +162,16 @@ and even code.
 Made a concoction of black beans with white rice and something I can't even
 describe with corned beef. It wasn't entirely awesful so yeah! 
 
+# 02/19/2017
+
+We had yet another warm day in NYC. 2 degrees warmer than yesterday. Of course
+I took my bike out riding. With a little help from the subway, I made my way to
+Manhattan where I had a delightful but expensive brunch at Zengo on 40th & 3rd. 
+
+I also had a pleasure of meeting two exceptional friends of Abbey. We had
+a very healthy 2 hour dialogue over Mimosas about the Black Lives Matter
+movement. It was delightful learning to listen and consciously speaking to be
+understood as debating these issues can get hairy quite instantly. 
 
 
 
