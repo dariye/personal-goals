@@ -173,6 +173,17 @@ a very healthy 2 hour dialogue over Mimosas about the Black Lives Matter
 movement. It was delightful learning to listen and consciously speaking to be
 understood as debating these issues can get hairy quite instantly. 
 
+# 02/20/2017
+
+Had an early start to President's day! Nothing like an early morning with coffee
+and some thought. 
+
+Caught with Jeph for coffee and really good conversation and then India, and
+finally Saskia. I love anything with good, deep conversation. And today has been
+near perfect. I didn't get to complete the nextjs + contentful starter I've been
+working on but hey it was a fulfilling day. 
+
+
 
 
 
