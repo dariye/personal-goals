@@ -183,6 +183,15 @@ finally Saskia. I love anything with good, deep conversation. And today has been
 near perfect. I didn't get to complete the nextjs + contentful starter I've been
 working on but hey it was a fulfilling day. 
 
+# 02/21/2017
+
+Back at it again. Only this time I am much more conscious and deliberate about
+everything. 
+
+Watched a Trevoh Noah special on Netflix with le roommate; Trevor's
+hilarious and very real. Always a delight to see a fellow immigrant "making" it. I'm 
+reminded of my own story and journey.
+
 
 
 
