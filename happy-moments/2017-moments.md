@@ -192,6 +192,17 @@ Watched a Trevoh Noah special on Netflix with le roommate; Trevor's
 hilarious and very real. Always a delight to see a fellow immigrant "making" it. I'm 
 reminded of my own story and journey.
 
+# 02/22/2017
+
+Reading Next Africa has been an eye opener to the business opportunities that are
+abundant in Sub Saharan Africa. 
+
+Will start exploring some of the opportunities that exist in untapped sectors
+such as agriculture. 
+
+Caught up with Pilar earlier and had a great conversation about life and all
+its happenings.
+
 
 
 
