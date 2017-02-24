@@ -203,6 +203,16 @@ such as agriculture.
 Caught up with Pilar earlier and had a great conversation about life and all
 its happenings.
 
+# 02/23/2017
+
+Had a chat with the infamous Adam Lupu. He reminded of my dreams again. I had
+forgotten for the most part what I really want out of life. He encouraged me to
+capture learning moments in my day-to-day.
+
+Thankful for the time I get to prepare meals even when I get back late at night. 
+
+
+
 
 
 
