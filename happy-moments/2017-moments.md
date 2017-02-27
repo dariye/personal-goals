@@ -211,6 +211,12 @@ capture learning moments in my day-to-day.
 
 Thankful for the time I get to prepare meals even when I get back late at night. 
 
+# 02/26/2017
+
+Thankful I was able to catch up family and friends around the world. Today I
+especially felt the need to revisit the desires that drive me everyday. 
+
+There's no room for excuses in my life and I have none to offer.
 
 
 

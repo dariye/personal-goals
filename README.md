@@ -10,15 +10,19 @@ accountability.
 4. Stay spontaneous, be experimental
 5. Be confident!
 
-## February 19, 2016
+## February 26, 2016
 
-## Next Week's Focus: Focus
+## Next Week's Focus: Re-Focus
 
 ## Things I'll do next week:
 - [ ] Publish PWA blog post
 - [ ] Read and write a summary of Next Africa
 - [ ] Write a journal entry every day of the week
 - [ ] Submit a contribution to an open source project
+- [ ] Meet up with Nasrin
+- [ ] Create project brief for HN
+- [ ] Nextjs + Contentful starter
+
 
 ### Things I'll do this Month:
 - [ ] Visualization with React
