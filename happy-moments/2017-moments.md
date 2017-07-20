@@ -218,6 +218,18 @@ especially felt the need to revisit the desires that drive me everyday.
 
 There's no room for excuses in my life and I have none to offer.
 
+# 07/19/2017
+
+Grateful I can consciously make time for this again. Introspection is a
+worthwhile endeavor and self-examination is a way to introduce order to the
+seemingly chaotic nature that is like. 
+
+I'm thankful for the many conversations that took place today at work. With
+planned coffee meetings with Suliat and Mike, lunch with Rosenberg,
+unplanned meeting with Deepti, and dinner with Bharani and Roberto. Somehow
+these moments define work for me. I remember with every conversation why I am
+where I am and I'm reminded that the people around me trump the work that I
+sometimes try so hard to break away from. 
 
 
 
