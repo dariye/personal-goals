@@ -231,6 +231,17 @@ these moments define work for me. I remember with every conversation why I am
 where I am and I'm reminded that the people around me trump the work that I
 sometimes try so hard to break away from. 
 
+# 07/30/2017
+
+I guess I called my return to entering daily moments too soon :). 
+
+I'm thankful for a very mundane day; I got to design a bit, visit the Bush
+Terminal Park, get my bike fixed, prepare food for the week, and watch some tv.
+
+I'm also thankful I made time to check in on Katie and to catch with Xenia over
+the phone (really proud of her :)). 
+
+
 
 
 
